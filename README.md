@@ -30,10 +30,10 @@ This KodeKloud course prepares for it with short videos and many hands-on labs i
 
 ## My notes
 
-My Linux cheat sheets were built while preparing this exam: [devops_cheat_sheets/linux](https://github.com/PoissonChevre/devops_cheat_sheets/tree/main/linux)
+My Linux cheat sheets were built while preparing this exam: [cheatsheets/linux](https://github.com/PoissonChevre/cheatsheets/tree/main/linux)
 
 - One file per topic, each with a Pitfalls section
-- [Exam strategy and top pitfalls](https://github.com/PoissonChevre/devops_cheat_sheets/blob/main/linux/lfcs-exam.md)
+- [Exam strategy and top pitfalls](https://github.com/PoissonChevre/cheatsheets/blob/main/linux/lfcs-exam.md)
 
 ## Takeaways
 
